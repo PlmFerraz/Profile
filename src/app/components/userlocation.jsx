@@ -1,3 +1,3 @@
 export default function UserLocation({ children }) {
-  return <h3 className="text-blue-500">{children}</h3>;
+  return <h3 className=" text-[#ACC957] font-bold">{children}</h3>;
 }

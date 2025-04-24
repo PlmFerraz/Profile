@@ -1,3 +1,3 @@
 export default function JobDescription({ children }) {
-  return <p className="text-blue-500">{children}</p>;
+  return <p className="mt-[20px]">{children}</p>;
 }
